@@ -1,5 +1,6 @@
-Hosted Link: https://kaverichougule.github.io/Animation/
-![Uploading image.png…]()
+Hosted Link: https://kaverichougule.github.io/Animation/ <br>
+
+![image](https://github.com/kaverichougule/Animation/assets/101037685/8bc13b76-555b-414c-a346-d8392d61bd17)
 index.html <br>
 The <body> section contains the visible content of the web page. <br>
 Inside the <body>, there's a <div> element with the class "container" that holds three <img> elements, each with a source and alt attribute representing different images. <br>
